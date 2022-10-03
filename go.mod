@@ -1,3 +1,3 @@
-module radityaqb/calculator
+module github.com/radityaqb/calculator
 
-go 1.15
+go 1.19
